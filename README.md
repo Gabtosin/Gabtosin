@@ -30,3 +30,9 @@ const myProfile = new MyProfile(
 myProfile.introduce();
 
 ```
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabtosin&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabtosin&layout=compact&theme=radical)
