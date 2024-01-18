@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- Bio -->
+# Hey y'all! 👋 I'm Gabriel Tosin...
 
-<!--
-**Gabtosin/Gabtosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub sanctuary! I'm a passionate Front-End Developer and Modder, with a knack for creating content for games, websites and more! This is where innovation meets efficiency.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- About Me -->
+## 💻 About Me
+
+```javascript
+class MyProfile {
+    constructor(name, topLanguages, hobbies) {
+        this.name = name;
+        this.topLanguages = topLanguages;
+        this.hobbies = hobbies;
+    }
+
+    introduce() {
+        console.log(`Hi, I'm ${this.name}, a developer with a passion for ${this.topLanguages.join(', ')}.\nWhen I'm not coding, you can find me ${this.hobbies}.`);
+    }
+}
+
+const myProfile = new MyProfile(
+    "Gabriel Tosin",
+    ["JavaScript", "Python", "React", "CSS", "Python"],
+    "exploring new technologies, reading, and playing some games"
+);
+
+myProfile.introduce();
+
+```
