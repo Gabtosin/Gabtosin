@@ -1,7 +1,7 @@
 <!-- Bio -->
-# Hey y'all! 👋 I'm Gabriel Tosin...
+# Hey y'all 👋 I'm Gabriel Tosin...
 
-Welcome to my GitHub sanctuary! I'm a passionate Front-End Developer and Modder, with a knack for creating content for games, websites and more! This is where innovation meets efficiency.
+Welcome to my GitHub. I'm a passionate Front-End Developer and Modder, with a knack for creating content for games, websites and more!
 
 ## Tools and languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> 
