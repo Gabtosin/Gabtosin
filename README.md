@@ -1,5 +1,5 @@
 <!-- Bio -->
-# Hey y'all 👋 I'm Gabriel Tosin...
+# Hey y'all 👋 I'm Gabtosin
 
 Welcome to my GitHub. I'm a passionate Front-End Developer and Modder, with a knack for creating content for games, websites and more!
 
