@@ -28,7 +28,7 @@ class MyProfile {
 
 const myProfile = new MyProfile(
     "Gabriel Tosin",
-    ["JavaScript", "Python", "React", "CSS", "Python"],
+    ["JavaScript", "Python", "React", "CSS"],
     "exploring new technologies, reading, and playing some games"
 );
 
